@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/eCustic/yoystick-bot#readme",
   "dependencies": {
-    "discord.js": "^11.2.1"
+    "discord.js": "^11.2.1",
+    "mtgsdk": "^0.3.0"
   }
 }
